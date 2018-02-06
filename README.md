@@ -1,1 +1,1 @@
-# Serrano_Tijeras_Victor_Manuel_PROG_Tarea06
+Victor Manuel Serrano Tijeras tarea 06 de programacion.
